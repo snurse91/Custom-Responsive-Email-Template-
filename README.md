@@ -1,2 +1,2 @@
-# Resoponsive-Email-Template-
+# Responsive-Email-Template-
 I created this email template using HTML and CSS.
